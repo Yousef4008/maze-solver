@@ -22,5 +22,3 @@ Maze solving algorithms are crucial for pathfinding in AI applications, enabling
 - **Examples:** Sample maze files used for testing algorithms.
 - **Documentation:** Project report and documentation files.
 
-## Getting Started
-To start using this project, clone the repository and follow the setup instructions.
